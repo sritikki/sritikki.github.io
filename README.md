@@ -1,7 +1,6 @@
 # sritikki.github.io
 Here is portfolio website
 
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
