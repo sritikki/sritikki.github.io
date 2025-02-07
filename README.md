@@ -6,7 +6,7 @@ Here is portfolio website
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Your Portfolio</title>
+    <title>My Portfolio</title>
     <link rel="stylesheet" href="style.css"> <!-- Optional CSS file -->
 </head>
 <body>
@@ -23,7 +23,7 @@ Here is portfolio website
         <p </p>
     </section>
     <footer>
-        <p>Contact: your-email@example.com</p>
+        <p>Contact: sritikki@gmail.com</p>
     </footer>
 </body>
 </html>
