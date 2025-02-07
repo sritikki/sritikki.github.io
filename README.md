@@ -10,6 +10,8 @@ Here is portfolio website
 </head>
 <body>
     <header>
+        <h1> My Resume </h1>
+         <link rel="stylesheet" href="style.css"> 
         <h1>Your Name</h1>
         <p>Welcome to my portfolio website!</p>
     </header>
