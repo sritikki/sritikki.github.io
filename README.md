@@ -17,7 +17,7 @@
     </section>
     <section>
         <h2>Projects</h2>
-        <p>Showcase some of your best work here with links and descriptions.</p>
+        <p>Links.</p>
     </section>
     <footer>
         <p>Contact: sritikki@gmail.com</p>
