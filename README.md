@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Your Portfolio</title>
+    <h2>Your Portfolio</h2>
     <link rel="stylesheet" href="style.css"> <!-- Optional CSS file -->
 </head>
 <body>
