@@ -9,18 +9,18 @@
 <body>
     <header>
         <h1>Your Name</h1>
-        <p>Welcome to my portfolio website!</p>
+        <p>Welcome to my portfolio!</p>
     </header>
     <section>
         <h2>About Me</h2>
-        <p>Brief description of yourself, your skills, and what you're passionate about.</p>
+        <p>Hi, my name is Sri Tikkisetti. I'm a junior at VCU majoring in Business/Information Systems with a minor in AI.</p>
     </section>
     <section>
         <h2>Projects</h2>
         <p>Showcase some of your best work here with links and descriptions.</p>
     </section>
     <footer>
-        <p>Contact: your-email@example.com</p>
+        <p>Contact: sritikki@gmail.com</p>
     </footer>
 </body>
 </html>
